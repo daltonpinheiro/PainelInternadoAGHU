@@ -7,7 +7,8 @@ Este painel foi desenvolvido em Power Bi e é necessário que o computador possu
 
 
 Para usar o painel, baixe o arquivo (InternadosAgora.ipynb) que possui a aplicação em Power Bi com o código R dentro.<br>
-Para implantar no hospital onde trabalha clique neste link (<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/daltonpinheiro/PainelInternadoAGHU/master/ManualPainel.html">Manual</a> ).
+Para implantar no hospital onde trabalha clique neste link (<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/daltonpinheiro/PainelInternadoAGHU/master/ManualPainel.html">Manual</a> Se este link não carregar
+clique em dowload e abra o manual off line).
 
 
 ## Agradecimento especial ao Guilherme Malvao (estatístico do HU de Brasília) que produziu o código em R.<br>
